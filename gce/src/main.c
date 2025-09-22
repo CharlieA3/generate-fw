@@ -17,6 +17,8 @@ int main(void)
     {
         return 0;
     }
+    int detached = 0;
+    int head = 0;
 
     int state = 0;
 
